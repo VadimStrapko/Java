@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container xmlns="http://msiter.ru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://msiter.ru validation.xsd">
+    <Students>
+        <Student>
+            <surname>Сидоров</surname>
+            <specialty>ПОИТ</specialty>
+            <isFTimeEdu>false</isFTimeEdu>
+            <course>1</course>
+            <perfomance>6.7</perfomance>
+        </Student>
+        <Student>
+            <surname>Мороз</surname>
+            <specialty>ИСИТ</specialty>
+            <isFTimeEdu>false</isFTimeEdu>
+            <course>1</course>
+            <perfomance>4.7</perfomance>
+        </Student>
+        <Student>
+            <surname>Пушкин</surname>
+            <specialty>ПОИБМС</specialty>
+            <isFTimeEdu>true</isFTimeEdu>
+            <course>2</course>
+            <perfomance>9.9</perfomance>
+        </Student>
+        <Student>
+            <surname>Пупкин</surname>
+            <specialty>ДЭИВИ</specialty>
+            <isFTimeEdu>false</isFTimeEdu>
+            <course>4</course>
+            <perfomance>4.1</perfomance>
+        </Student>
+    </Students>
+</Container>
