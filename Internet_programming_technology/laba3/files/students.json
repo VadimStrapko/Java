@@ -1,0 +1,23 @@
+[
+  {
+    "surname": "Ivanov",
+    "specialty": "ПОИТ",
+    "course": 2,
+    "perfomance": 8.5,
+    "isFTimeEdu": true
+  },
+  {
+    "surname": "Petrov",
+    "specialty": "ИСИТ",
+    "course": 3,
+    "perfomance": 9.2,
+    "isFTimeEdu": false
+  },
+  {
+    "surname": "Sidorov",
+    "specialty": "ДЭИВИ",
+    "course": 1,
+    "perfomance": 7.8,
+    "isFTimeEdu": true
+  }
+]
